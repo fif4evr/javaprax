@@ -51,7 +51,7 @@ If any of that seemed confusing, start by reading some of these things:
 ### Big-O
 
 - Read the section on run-time analysis in the Data Structures book (1.2 if the internet is to be believed)
-- some good stuff [on stackoverflow][http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o]
+- some good stuff [on stackoverflow](http://stackoverflow.com/questions/487258/plain-english-explanation-of-big-o)
 
 ### LinkedList
 
